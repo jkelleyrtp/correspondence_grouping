@@ -14,7 +14,7 @@
 *.autosave
 
 # pcd, onis and images
-*.pcd
+#*.pcd
 *.oni
 
 
